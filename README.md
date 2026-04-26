@@ -14,7 +14,11 @@ This project is a simple Python automation script to send emails using SMTP.
 ## Output
 Below is a sample output:
 
-Automated Email - Python.png
+
+<h3 align="center">Automated Email Generation (Python)</h3>
+<p align="center">
+  <img src="Automated Email - Python.png" width="800"/>
+</p>
 
 ## Note
 Do not upload real credentials. Use environment variables for better security.
